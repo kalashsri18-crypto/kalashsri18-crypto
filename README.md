@@ -30,14 +30,14 @@ B.Tech 2nd-year student in **Artificial Intelligence & Machine Learning** at **A
 
 | Project | Description | Tech |
 |---|---|---|
-| [**ExpenseAtlas**](https://github.com/kalashsri18-crypto/Kalash-1) | Personal finance tracker for recording expenses, setting monthly category budgets, and exporting reports. | Python, Flask, SQLite |
-| [**SlotSync**](https://github.com/kalashsri18-crypto/Kalash-2) | Appointment scheduling app with slot capacity, ticket numbering, cancellations, and queue positions. | Python, Flask, SQLite |
-| [**RevisionDeck**](https://github.com/kalashsri18-crypto/Kalash-3) | Spaced-repetition flashcard app concept for organising decks and planning revision sessions. | Project concept |
-| [**PantryLedger**](https://github.com/kalashsri18-crypto/Kalash-4) | Pantry inventory app concept with stock tracking, expiry reminders, and shopping lists. | Project concept |
-| [**IncidentBoard**](https://github.com/kalashsri18-crypto/Kalash-5) | Issue-tracking board concept for priorities, assignments, status updates, and activity history. | Project concept |
+| [**ExpenseAtlas**](https://github.com/kalashsri18-crypto/ExpenseAtlas) | Personal finance web app for tracking expenses, managing monthly budgets, and exporting reports. | Python, Flask, SQLite |
+| [**SlotSync**](https://github.com/kalashsri18-crypto/SlotSync) | Appointment booking and queue management app with slot capacity, ticket numbering, and cancellations. | Python, Flask, SQLite |
+| [**RevisionDeck**](https://github.com/kalashsri18-crypto/RevisionDeck) | Flashcard revision app with active recall and spaced-repetition scheduling. | Python, Flask, SQLite |
+| [**PantryLedger**](https://github.com/kalashsri18-crypto/PantryLedger) | Pantry inventory manager with quantity tracking, expiry dates, and a shopping list. | Project concept |
+| [**IncidentBoard**](https://github.com/kalashsri18-crypto/IncidentBoard) | Issue tracker with priorities, assignees, status workflows, and activity history. | Project concept |
 | [**Driver Drowsiness Detection**](https://github.com/kalashsri18-crypto/Driver-Drowsiness-Detection-System) | A computer-vision project focused on detecting driver drowsiness. | See repository |
 
-*The first two repositories contain application code. RevisionDeck, PantryLedger, and IncidentBoard currently contain project documentation/roadmaps and are planned for implementation.*
+*All five repositories include Flask + SQLite applications, browser-based interfaces, setup files, and API tests.*
 
 ---
 
