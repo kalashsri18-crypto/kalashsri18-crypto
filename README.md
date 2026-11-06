@@ -4,7 +4,7 @@ B.Tech 2nd-year student in **Artificial Intelligence & Machine Learning** at **A
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalashsri18-crypto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalash-srivastava-b6592a3b3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A7B83?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalashsri18-crypto.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A7B83?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalashsrivastava-portfolio-dev.netlify.app)
 
 ---
 
