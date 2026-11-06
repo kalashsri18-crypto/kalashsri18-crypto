@@ -1,6 +1,6 @@
 # Hi, I'm Kalash Srivastava 👋
 
-B.Tech 2nd-year student in **Artificial Intelligence & Machine Learning** at **Axis Institute of Technology and Management, Kanpur** (expected graduation: **2029**). I enjoy learning by building practical projects, exploring software development, and strengthening my problem-solving skills.
+B.Tech 2nd-year student in **Artificial Intelligence & Machine Learning** at **Axis Institute of Technology and Management, Kanpur** (graduation: **2029**). I enjoy learning by building practical projects, exploring software development, and strengthening my problem-solving skills.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalashsri18-crypto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalash-srivastava-b6592a3b3)
