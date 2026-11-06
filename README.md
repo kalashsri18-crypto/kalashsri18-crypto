@@ -33,7 +33,7 @@ B.Tech 2nd-year student in **Artificial Intelligence & Machine Learning** at **A
 | [**ExpenseAtlas**](https://github.com/kalashsri18-crypto/ExpenseAtlas) | Personal finance web app for tracking expenses, managing monthly budgets, and exporting reports. | Python, Flask, SQLite |
 | [**SlotSync**](https://github.com/kalashsri18-crypto/SlotSync) | Appointment booking and queue management app with slot capacity, ticket numbering, and cancellations. | Python, Flask, SQLite |
 | [**RevisionDeck**](https://github.com/kalashsri18-crypto/RevisionDeck) | Flashcard revision app with active recall and spaced-repetition scheduling. | Python, Flask, SQLite |
-| [**PantryLedger**](https://github.com/kalashsri18-crypto/PantryLedger) | Pantry inventory manager with quantity tracking, expiry dates, and a shopping list. | Project concept |
+| [**PantryLedger**](https://github.com/kalashsri18-crypto/PantryLedger) | Pantry inventory manager with quantity tracking, expiry dates, and a shopping list. | Python, Flask, SQLite |
 | [**IncidentBoard**](https://github.com/kalashsri18-crypto/IncidentBoard) | Issue tracker with priorities, assignees, status workflows, and activity history. | Project concept |
 | [**Driver Drowsiness Detection**](https://github.com/kalashsri18-crypto/Driver-Drowsiness-Detection-System) | A computer-vision project focused on detecting driver drowsiness. | See repository |
 
