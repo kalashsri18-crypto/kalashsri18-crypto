@@ -61,7 +61,7 @@ B.Tech 2nd-year student in **Artificial Intelligence & Machine Learning** at **A
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/kalash-srivastava-b6592a3b3](https://www.linkedin.com/in/kalash-srivastava-b6592a3b3)
-- **Portfolio:** [https://kalashsrivastava-portfolio-dev.metlify.app](https://kalashsrivastava-portfolio-dev.metlify.app)
+- **Portfolio:** [https://kalashsrivastava-portfolio-dev.netlify.app](https://kalashsrivastava-portfolio-dev.netlify.app)
 - **Email:** kalashsri18@gmail.com
 
 ⭐ Thanks for visiting my profile!
